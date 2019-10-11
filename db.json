@@ -1,5 +1,5 @@
 {"contacts": [
-    "contact": {
+    {
         "personId":"1",
         "name":"ala bala",
         "address":{ 
@@ -7,7 +7,7 @@
             "street":"bucuresti nord"
     }} ,
     
-    "contact": {
+    {
         "personId":"2",
         "name":"AnaMaria",
         "address":{ 
@@ -15,7 +15,7 @@
             "street":"Aleea"
     }},
 
-    "contact": {
+    {
         "personId":"3",
         "name":"Mircea",
         "address":{ 
@@ -23,7 +23,7 @@
             "street":"Voluntari"
     }}, 
 
-    "contact": {
+    {
         "personId":"4",
         "name":"Alex",
         "address":{ 
