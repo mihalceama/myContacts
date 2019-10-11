@@ -1,33 +1,36 @@
-{"contacts": [
-    {
-        "personId":"1",
-        "name":"ala bala",
-        "address":{ 
+{ 
+   "contacts":[ 
+      { 
+         "personId":"1",
+         "name":"ala bala",
+         "address":{ 
             "addressId":"11",
             "street":"bucuresti nord"
-    }} ,
-    
-    {
-        "personId":"2",
-        "name":"AnaMaria",
-        "address":{ 
+         }
+      },
+      { 
+         "personId":"2",
+         "name":"AnaMaria",
+         "address":{ 
             "addressId":"2",
             "street":"Aleea"
-    }},
-
-    {
-        "personId":"3",
-        "name":"Mircea",
-        "address":{ 
+         }
+      },
+      { 
+         "personId":"3",
+         "name":"Mircea",
+         "address":{ 
             "addressId":"5",
             "street":"Voluntari"
-    }}, 
-
-    {
-        "personId":"4",
-        "name":"Alex",
-        "address":{ 
+         }
+      },
+      { 
+         "personId":"4",
+         "name":"Alex",
+         "address":{ 
             "addressId":"88",
             "street":"Mare"
-    }} 
-]}
+         }
+      }
+   ]
+}
