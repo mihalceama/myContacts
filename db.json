@@ -1,5 +1,4 @@
-{ 
-   "contacts":[ 
+[
       { 
          "personId":"1",
          "name":"ala bala",
@@ -32,5 +31,5 @@
             "street":"Mare"
          }
       }
-   ]
-}
+]
+
